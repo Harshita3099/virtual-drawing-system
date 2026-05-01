@@ -29,3 +29,5 @@ A real-time virtual drawing system using hand gesture recognition with MediaPipe
 
 ## Note
 The required model file will be automatically downloaded when you run the program.
+## Preview
+![Preview](preview.png)
